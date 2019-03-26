@@ -93,9 +93,7 @@
                     <button type="livedemo" name="Live Demo" class="btn btn-primary btn-lg" required="required">Live
                       Demo</button>
                   </div>
-                  <div class="form-group">
-                    <button type="getnow" name="Get Now" class="btn btn-primary btn-lg" required="required">Get Now</button>
-                  </div> -->
+            
                 </form>
               </div>
             </div>
